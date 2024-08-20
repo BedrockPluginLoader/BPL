@@ -2,7 +2,7 @@
   <h2>Bedrock Plugin Loader</h2>
   <p>A BDS tool to load lua plugins for Servers!</p>
 
-  ![Static Badge](https://img.shields.io/badge/Written_in_C%2B%2B-grey?style=for-the-badge&logo=cplusplus&logoColor=%23fff&color=353535)
+  ![Static Badge](https://img.shields.io/badge/Loader_in_C%2B%2B-grey?style=for-the-badge&logo=cplusplus&logoColor=%23fff&color=353535)
   ![Static Badge](https://img.shields.io/badge/Plugins_in_Lua-grey?style=for-the-badge&logo=lua&logoColor=%23fff&color=353535)
   ![Static Badge](https://img.shields.io/badge/Discord_Server-grey?style=for-the-badge&logo=discord&logoColor=%23fff&color=353535)
 </div>
